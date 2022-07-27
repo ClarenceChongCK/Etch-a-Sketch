@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    height: 480px;
+    width: 480px;
+    background-color: white;
+
+}
+
+body {
+    display: flex;
+    flex-direction:  column;
+    background-color:antiquewhite;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+}
+
